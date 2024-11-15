@@ -1,0 +1,21 @@
+name: uts
+description: emergency response covid-19
+
+environment:
+  sdk: '^2.19.6'
+
+dependencies:
+  firebase_auth: ^5.3.3
+  firebase_core: ^3.8.0
+  firebase_messaging: ^15.1.5
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.2.1
+  flutter_local_notifications: ^18.0.1
+  geolocator: ^13.0.2  # Pastikan untuk menambahkan geolocator versi terbaru
+  # Tambahkan dependensi lain yang diperlukan
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0 # Or the latest available version

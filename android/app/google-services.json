@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571075128831",
+    "project_id": "pemrogramanmobilee",
+    "storage_bucket": "pemrogramanmobilee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571075128831:android:63596e46fb7aa323bfcbca",
+        "android_client_info": {
+          "package_name": "my.id.Nandita.pert6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckhUJ_1ta_8mvMWRp8S2VNy8BFg6Vuos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571075128831:android:a904b4c542557c3fbfcbca",
+        "android_client_info": {
+          "package_name": "my.id.ratana.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckhUJ_1ta_8mvMWRp8S2VNy8BFg6Vuos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
